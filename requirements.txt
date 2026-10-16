@@ -1,0 +1,6 @@
+numpy
+scipy
+pandas
+
+# optional, only needed for the --plot flags
+matplotlib

@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# outputs from the synthetic test and pipeline runs
+software/synth_*.csv
+software/*_results.csv
+results.csv
+stages.csv
+hypnogram.png
+bcg_paalasmaa_detection.png
